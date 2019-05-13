@@ -22,9 +22,9 @@ title: "MUSA 620: Data Wrangling and Data Visualization"
 title_separator: "-"
 name: "Fay Walker and Jessica Klion"
 description: "Examining Blight and Short Term Rentals in New Orleans"
-url: "https://faycwalker.github.io"
+url: "https://jklion.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "faycwalker/AirBnBs_NOLA"
+repository: "jklion/Airbnb_Nola"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -111,7 +111,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: #
   location: "Philadelphia"
-  email: "fay.c.walker@gmail.com"
+  email: "jessica.klion@gmail.com"
   #links:
   # - #label: "fay.c.walker@gmail.com"
   #   #icon: "fas fa-fw fa-envelope-square"
