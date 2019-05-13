@@ -1,7 +1,6 @@
 
 
 ```python
----
 title: "Examining Blight and Short Term Rentals in New Orleans"
 date: 2019-05-14
 published: true
@@ -14,7 +13,7 @@ folium-loader:
   folium-chart-4: ["charts/folium-point.html", "400"]
 toc: true
 toc_sticky: true
----
+
 
 This analysis examines the relationship between code violations, lien foreclosures, blight demolitions, and AirBnBs, or short term rentals in New Orleans. 
 The following maps first show where there are concentration sof lien foreclosures, blight demolitions, and AirBnB licenses in the city. The fourth map shows
